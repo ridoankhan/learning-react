@@ -1,0 +1,1 @@
+ => stateless components and functional components are the same thing
