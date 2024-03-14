@@ -1,0 +1,41 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 800px; /* Set the maximum width as per your design */
+  margin: 0 auto; /* Center the container horizontally */
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+  flex: 0 0 calc(33.33% - 32px); /* 32px is the combined margin for each card */
+  box-sizing: border-box;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.card-image {
+  width: 100%; /* Ensure the image takes 100% width of the container */
+  height: auto; /* Maintain the aspect ratio */
+}
+
+.card-content {
+  padding: 16px;
+  max-width: 100%; /* Set the maximum width for the content */
+  box-sizing: border-box;
+}
+
+.card-title {
+  font-size: 1.2em; /* Adjust the font size as needed */
+  margin-bottom: 8px;
+}
+
+.card-description {
+  font-size: 1em; /* Adjust the font size as needed */
+}

@@ -1,13 +1,16 @@
-import Post from './components/Post'
-import TableComp from './components/TableComp'
+import StateManage from './components/stateManage/StateManage'
+import ApiCall from './components/apiCall/ApiCall'
+import Form from './components/form/Form'
 
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
-      <Post />
+      <h1>Learning React</h1>
+      <StateManage />
       <br />
-      <TableComp />
+      <ApiCall />
+      <br />
+      <Form />
     </div>
   )
 }

@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const Post = () => {
+const StateManage = () => {
   const [showFullName, setShowFullName] = useState(false)
   const firstName = 'Ridoan'
   const lastName = 'Khan'
@@ -15,12 +15,13 @@ const Post = () => {
 
   return (
     <div>
-      <button onClick={handleButtonClick}>Show Full Name</button>
-      {showFullName && <p>{`${firstName} ${lastName}`}</p>}
+      <h4>State Management Using useState</h4>
 
+      <button onClick={handleButtonClick}>Show Full Name</button>
       <button onClick={hideTheData}>Hide the name</button>
+      {showFullName && <p>{`${firstName} ${lastName}`}</p>}
     </div>
   )
 }
 
-export default Post
+export default StateManage

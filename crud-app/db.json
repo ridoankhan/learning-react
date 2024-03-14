@@ -1,0 +1,176 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Ridoan Khan",
+      "lastName": "Anik",
+      "email": "ridoankhan07@gmail.com",
+      "age": 29,
+      "hobbies": [
+        "circket",
+        "game",
+        "travelling"
+      ]
+    },
+    {
+      "id": "2",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alice_smith@example.com",
+      "age": 25,
+      "hobbies": [
+        "Travelling",
+        "Reading",
+        "Music"
+      ]
+    },
+    {
+      "id": "3",
+      "firstName": "Charlie",
+      "lastName": "Jones",
+      "email": "charlie_jones@example.com",
+      "age": 30,
+      "hobbies": [
+        "Game",
+        "Photography",
+        "Fitness"
+      ]
+    },
+    {
+      "id": "4",
+      "firstName": "Ivy",
+      "lastName": "Wilson",
+      "email": "ivy_wilson@example.com",
+      "age": 22,
+      "hobbies": [
+        "Cooking",
+        "Painting"
+      ]
+    },
+    {
+      "id": "5",
+      "firstName": "Jack",
+      "lastName": "Taylor",
+      "email": "jack_taylor@example.com",
+      "age": 28,
+      "hobbies": [
+        "Game",
+        "Travelling",
+        "Photography",
+        "Gardening"
+      ]
+    },
+    {
+      "id": "6",
+      "firstName": "Grace",
+      "lastName": "Miller",
+      "email": "grace_miller@example.com",
+      "age": 35,
+      "hobbies": [
+        "Reading",
+        "Cooking",
+        "Fitness",
+        "Gardening"
+      ]
+    },
+    {
+      "id": "7",
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob_johnson@example.com",
+      "age": 18,
+      "hobbies": [
+        "Cricket",
+        "Music",
+        "Photography"
+      ]
+    },
+    {
+      "id": "8",
+      "firstName": "Emma",
+      "lastName": "Davis",
+      "email": "emma_davis@example.com",
+      "age": 24,
+      "hobbies": [
+        "Travelling",
+        "Reading",
+        "Painting"
+      ]
+    },
+    {
+      "id": "9",
+      "firstName": "David",
+      "lastName": "Brown",
+      "email": "david_brown@example.com",
+      "age": 38,
+      "hobbies": [
+        "Game",
+        "Fitness",
+        "Painting"
+      ]
+    },
+    {
+      "id": "10",
+      "firstName": "Frank",
+      "lastName": "Moore",
+      "email": "frank_moore@example.com",
+      "age": 20,
+      "hobbies": [
+        "Travelling",
+        "Music",
+        "Cooking",
+        "Photography"
+      ]
+    },
+    {
+      "id": "11",
+      "firstName": "Henry",
+      "lastName": "Taylor",
+      "email": "henry_taylor@example.com",
+      "age": 32,
+      "hobbies": [
+        "Cricket",
+        "Game",
+        "Reading",
+        "Music"
+      ]
+    },
+    {
+      "id": "21fd",
+      "firstName": "Rakibul",
+      "lastName": "Islam",
+      "age": "35",
+      "hobbies": "smoking, gossiping",
+      "email": "rakibul_islam@gmail.com"
+    },
+    {
+      "id": "3f0a",
+      "firstName": "asd",
+      "lastName": "asd",
+      "age": "asd",
+      "hobbies": [
+        "asd"
+      ],
+      "email": "assd@ads.com"
+    },
+    {
+      "id": "bb73",
+      "firstName": "zahidul",
+      "lastName": "islam",
+      "age": "28",
+      "hobbies": [
+        "playing",
+        "singing"
+      ],
+      "email": "zahidul.islam@gmail.com"
+    },
+    {
+      "id": "8542",
+      "firstName": "",
+      "lastName": "",
+      "age": "",
+      "hobbies": "asdasd, asdasd,qweqwe",
+      "email": ""
+    }
+  ]
+}
